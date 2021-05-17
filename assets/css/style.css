@@ -1,13 +1,4 @@
 
-@font-face{
-    font-family: 'Fontawesome';
-    src: url('../fonts/FontAwesome.otf') 
-}
-
-@font-face{
-    font-family: 'Fontawesome webfont';
-    src: url('../fonts/fontawesome-webfont.eot') 
-}
 
 body {
     line-height: 17px;
